@@ -3,7 +3,7 @@ Project & Operations Analyst
 This is the analytics layer on top of that. Not really a career-switch story, I already built what analysts work within (reporting infrastructure, compliance tracking, KPI systems). This is me formalizing that into the analysis itself.
 Background: B.Eng, Igor Sikorsky Kyiv Polytechnic Institute. Data analytics coursework, Open University of Helsinki. C1 English.
 What's here:
-• SLA & Workflow Bottleneck Analysis (Python, BigQuery)
+• SLA & Workflow Bottleneck Analysis (Python, SQL)
 • E-commerce Funnel Analysis (SQL, Power BI)
-• E-commerce Delivery A/B Test Analysis (Python, SQL, Tableau)
-Tools: Excel, SQL, Python, BigQuery, Tableau, Power BI
+• EU Procurement Policy Impact A/B Test Analysis (SQL, Looker)
+Tools: Excel, SQL, Python, BigQuery, Tableau, Power BI, Looker
